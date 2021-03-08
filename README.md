@@ -1,5 +1,28 @@
-### Hi there 👋
-I'm Luke, a terrible software developer from the United Kingdom.
+### Hi there, I'm Luke 👋
+## I'm a Student from the United Kingdom!
+- 🔭 I’m currently working on multiple things!
+- 🥅 I work on the Open Collaboration project [@CubeCraft Games](https://github.com/CubeCraft)
+- ⚡ I'm also an administrator [@GeyserMC](https://github.com/GeyserMC)
+
+### Connect with me:
+
+[<img align="left" alt="lukeeey20 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
 
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeeey&show_icons=true&hide=stars,commits&disable_animations=true)
 
@@ -12,3 +35,6 @@ I'm Luke, a terrible software developer from the United Kingdom.
 ### Nukkit Plugins
 [![DeathView Card](https://github-readme-stats.vercel.app/api/pin/?username=lukeeey&repo=DeathView&show_owner=true)](https://github.com/lukeeey/DeathView)
 -->
+
+[twitter]: https://twitter.com/lukeeey20
+[linkedin]: https://www.linkedin.com/in/lukejwyatt
