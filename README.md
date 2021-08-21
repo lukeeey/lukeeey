@@ -1,13 +1,15 @@
 ### Hi there, I'm Luke 👋
+![](https://komarev.com/ghpvc/?username=lukeeey&color=blueviolet)
 ## I'm a Student from the United Kingdom!
-- 🔭 I’m currently working on multiple things!
-- 🥅 I work on the Open Collaboration project [@CubeCraft Games](https://github.com/CubeCraft)
-- ⚡ I'm also an administrator [@GeyserMC](https://github.com/GeyserMC)
+- 🥅 I help on the Open Collaboration project [@CubeCraft Games](https://github.com/CubeCraft)
+- ⚡ I'm a Project Lead [@GeyserMC](https://github.com/GeyserMC)
 
 ### Connect with me:
 
 [<img align="left" alt="lukeeey20 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+  
+Discord: `lukeeey#2013`
 
 <br />
 
