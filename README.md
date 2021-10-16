@@ -1,4 +1,4 @@
-### Hi there, I'm Luke 👋 [(**Hire me**)](mailto:luke.wyatt21@gmail.com)
+### Hi there, I'm Luke 👋 
 ![](https://komarev.com/ghpvc/?username=lukeeey&color=blueviolet)
 ## I'm a Student from the United Kingdom!
 - 🥅 I help on the Open Collaboration project [@CubeCraft Games](https://github.com/CubeCraft)
