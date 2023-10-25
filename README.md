@@ -1,7 +1,7 @@
 ### Hi there, I'm Luke 👋 
 ![](https://komarev.com/ghpvc/?username=lukeeey&color=blueviolet)  
 
-I'm a web developer and Project Lead [@GeyserMC](https://github.com/GeyserMC) from the United Kingdom!
+I'm a web developer from the Channel Islands!
 <!-- - 🥅 I help on the Open Collaboration project [@CubeCraft Games](https://github.com/CubeCraft) -->
 
 [<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
