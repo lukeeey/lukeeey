@@ -27,12 +27,14 @@ I'm a 21 year old web developer from the Channel Islands!
 ## Projects
 ### Websites
 * [Basket.je](https://basket.je) - A grocery price comparison site for Jersey, Channel Islands
-* [QR Code Generator](https://qrcode.glitch.je) ([Source](https://github.com/glitchjsy/qrcode)) - A simple QR code generator
+* [QR Code Generator](https://qrcode.glitch.je) - [Source](https://github.com/glitchjsy/qrcode) - A simple QR code generator
+* [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search]) - Look up Jersey vehicle information from a number plate
 
 ### JavaScript Projects
-* [andium-checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
-* [coldweb-cli](https://github.com/glitchjsy/coldweb-cli) - CLI tool for online ordering systems running on the coldweb platform 
-* [duty-calculator](https://github.com/glitchjsy/duty-calculator) - A Chrome extension to calculate excise duty on cigarettes, tobacco and alcohol products in Jersey
+* [Andium Properties Checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
+* [places-cli](https://github.com/glitchjsy/places-cli) - A command line tool for scraping data from Places.je
+* [coldweb-cli](https://github.com/glitchjsy/coldweb-cli) - A command line tool for scraping coldweb online ordering platforms
+* [Duty Calculator](https://github.com/glitchjsy/duty-calculator) - A Chrome extension to calculate excise duty on cigarettes, tobacco and alcohol products in Jersey
 
 ### Java Projects
 These are old Minecraft server plugins written in Java.
@@ -44,6 +46,7 @@ These are old Minecraft server plugins written in Java.
 * [SimpleQuests](https://github.com/lukeeey/SimpleQuests) - A simple quests plugin made on request
 
 ### Other Projects
+Minecraft Stuff:
 * [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
 
 
