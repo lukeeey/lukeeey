@@ -28,7 +28,7 @@ I'm a 21 year old web developer from the Channel Islands!
 ### Websites
 * [Basket.je](https://basket.je) - A grocery price comparison site for Jersey, Channel Islands
 * [QR Code Generator](https://qrcode.glitch.je) - [Source](https://github.com/glitchjsy/qrcode) - A simple QR code generator
-* [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search]) - Look up Jersey vehicle information from a number plate
+* [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate
 
 ### JavaScript Projects
 * [Andium Properties Checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
