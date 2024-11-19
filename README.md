@@ -47,8 +47,6 @@ These are old Minecraft server plugins written in Java.
 * [DeathView](https://github.com/lukeeey/DeathView) - A plugin that puts you into spectator mode when you die
 * [cloudforms](https://github.com/lukeeey/cloudforms) - A callback based form library for Minecraft Bedrock Edition servers
 * [DiscordRelay](https://github.com/lukeeey/DiscordRelay) - A chat bridge between Minecraft and Discord
-* [SimpleEconomy](https://github.com/lukeeey/SimpleEconomy) - A simple economy plugin made on request
-* [SimpleQuests](https://github.com/lukeeey/SimpleQuests) - A simple quests plugin made on request
 
 ### Other Projects
 Minecraft Stuff:
