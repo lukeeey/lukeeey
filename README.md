@@ -20,7 +20,7 @@ I'm a 21 year old web developer from the Channel Islands!
 <img align="left" alt="" width="26px" src="https://glitch.je/images/logos/nodejs.png" />
 <img align="left" alt="" width="26px" src="https://glitch.je/images/logos/mysql.png" />
 <img align="left" alt="" width="26px" src="https://glitch.je/images/logos/redis.svg" />
-
+...and more!
 <br />
 <br />
 
@@ -28,34 +28,37 @@ I'm a 21 year old web developer from the Channel Islands!
 
 ## Projects
 ### Websites
-* [Basket.je](https://basket.je) - A grocery price comparison site for Jersey, Channel Islands
-* [Clip](https://clip.glitch.je) - ([Source](https://github.com/glitchjsy/clip)) - Effortlessly copy & paste between multiple devices
-* [QR Code Generator](https://qrcode.glitch.je) - ([Source](https://github.com/glitchjsy/qrcode)) - A simple QR code generator
-* [Vehicle Search](https://vehicle-search.glitch.je) - ([Source](https://github.com/glitchjsy/vehicle-search)) - Look up Jersey vehicle information from a number plate
+* 👀 [hitcount.dev](https://hitcount.dev) - Track how many people viewed your GitHub profile / repo! ([source](https://github.com/lukeeey/hitcount))
+* 📊 [Jersey Open Data](https://data.glitch.je) - An API to provide access to open data in Jersey ([source](https://github.com/glitchjsy/data-frontend))
+* 🧺 [Basket.je](https://basket.je) - A grocery price comparison site for Jersey, Channel Islands
+* 📋 [Clip](https://clip.glitch.je) - Effortlessly copy & paste between multiple devices ([source](https://github.com/glitchjsy/clip))
+* ⚡ [QR Code Generator](https://qrcode.glitch.je) - A simple QR code generator ([source](https://github.com/glitchjsy/qrcode))
+* 🚗 ~~[Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate~~ *Currently offline*
 
-### JavaScript Projects
-* [Andium Properties Checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
-* [places-cli](https://github.com/glitchjsy/places-cli) - A command line tool for scraping data from Places.je
-* [coldweb-cli](https://github.com/glitchjsy/coldweb-cli) - A command line tool for scraping coldweb online ordering platforms
-* [Duty Calculator](https://github.com/glitchjsy/duty-calculator) - A Chrome extension to calculate excise duty on cigarettes, tobacco and alcohol products in Jersey
+### Random Things
+* 🏠 [Andium Properties Checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
+* 🏘️ [places-cli](https://github.com/glitchjsy/places-cli) - A command line tool for scraping data from Places.je
+* 🥫 [coldweb-cli](https://github.com/glitchjsy/coldweb-cli) - A command line tool for scraping coldweb online ordering platforms
+* 🚬 [Duty Calculator](https://github.com/glitchjsy/duty-calculator) - A Chrome extension to calculate excise duty on cigarettes, tobacco and alcohol products in Jersey
 
-### Android Projects
-Old stuff:
-* [Drive Jersey](https://github.com/lukeeey/Drive-Jersey) - A basic app I created **when I was 16** to fetch live information about available carpark spaces in Jersey. Inspired by [this](https://apps.apple.com/ng/app/drive-jersey/id1110663341)
-* [iMobileConfig](https://github.com/lukeeey/iMobileConfig) - An app I created **when I was 14** to parse iOS mobileconfig files
-
-### Java Projects
+### Minecraft Projects
 These are old Minecraft server plugins written in Java.
-* [FactionsMongo](https://github.com/lukeeey/FactionsMongo) - An extension to the FactionsUUID plugin to add support for MongoDB databases
-* [DeathView](https://github.com/lukeeey/DeathView) - A plugin that puts you into spectator mode when you die
-* [cloudforms](https://github.com/lukeeey/cloudforms) - A callback based form library for Minecraft Bedrock Edition servers
-* [DiscordRelay](https://github.com/lukeeey/DiscordRelay) - A chat bridge between Minecraft and Discord
+* 🪑 [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
+* 🏰 [FactionsMongo](https://github.com/lukeeey/FactionsMongo) - An extension to the FactionsUUID plugin to add support for MongoDB databases
+* ⛅ [cloudforms](https://github.com/lukeeey/cloudforms) - A callback based form library for Minecraft Bedrock Edition servers
+* 🏃 [DiscordRelay](https://github.com/lukeeey/DiscordRelay) - A chat bridge between Minecraft and Discord
 
 ### Other Projects
-Minecraft Stuff:
+##### Open Collaboration
 * [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
 
+##### GeyserMC
+I developed [DragonProxy][dragonproxy] from 2019-2020, which inspired [Geyser][geyser], which then was acquired by CubeCraft Games. Geyser now has over **4,700** GitHub stars and over **32,000** Discord members! I continue as a Project Lead, although I rarely do any development work anymore.
+
+My most recent contribution to the project was some work on the [new website](https://geysermc.org).
 
 <!--[![DeathView Card](https://github-readme-stats.vercel.app/api/pin/?username=lukeeey&repo=DeathView&show_owner=true)](https://github.com/lukeeey/DeathView)-->
 
 [linkedin]: https://www.linkedin.com/in/lukejwyatt
+[dragonproxy]: https://github.com/DragonetMC/DragonProxy
+[geyser]: https://github.com/GeyserMC/Geyser
