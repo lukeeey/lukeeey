@@ -42,15 +42,14 @@ I'm a 21 year old web developer from the Channel Islands!
 * 🚬 [Duty Calculator](https://github.com/glitchjsy/duty-calculator) - A Chrome extension to calculate excise duty on cigarettes, tobacco and alcohol products in Jersey
 
 ### Minecraft Projects
-These are old Minecraft server plugins written in Java.
-* 🪑 [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
+These are old Minecraft server plugins, written in Java, that I no longer maintain.
 * 🏰 [FactionsMongo](https://github.com/lukeeey/FactionsMongo) - An extension to the FactionsUUID plugin to add support for MongoDB databases
 * ⛅ [cloudforms](https://github.com/lukeeey/cloudforms) - A callback based form library for Minecraft Bedrock Edition servers
 * 🏃 [DiscordRelay](https://github.com/lukeeey/DiscordRelay) - A chat bridge between Minecraft and Discord
 
 ### Other Projects
 ##### Open Collaboration
-* [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
+* 🪑  [benchkit](https://github.com/opencollab-incubator/benchkit) - A plugin for the [Blockbench](https://www.blockbench.net) platform and [Cloudburst](https://github.com/CloudburstMC/Cloudburst) server software to send player skins via a socket from the site straight to the server
 
 ##### GeyserMC
 I developed [DragonProxy][dragonproxy] from 2019-2020, which inspired [Geyser][geyser], which then was acquired by CubeCraft Games. Geyser now has over **4,700** GitHub stars and over **32,000** Discord members! I continue as a Project Lead, although I rarely do any development work anymore.
