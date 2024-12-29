@@ -3,32 +3,35 @@
 
 I'm a 21 year old web developer from the Channel Islands!
 
-[<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
-<br />
+[<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [My Portfolio Website](https://glitch.je)  
 
 ## Languages and Tools
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
-<img align="left" alt="Next" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/java.png" />
+<img align="left" alt="" width="30px" src="https://glitch.je/images/logos/html5.png" />
+<img align="left" alt="" width="20px" src="https://glitch.je/images/logos/css3.png" />
+<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="" width="20px" src="https://glitch.je/images/logos/typescript.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/react.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/nextjs.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/vscode.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/idea.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/nodejs.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/mysql.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/redis.svg" />
 
 <br />
 <br />
-
 
 <!-- ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeeey&show_icons=true&hide=stars,commits&disable_animations=true) -->
 
 ## Projects
 ### Websites
 * [Basket.je](https://basket.je) - A grocery price comparison site for Jersey, Channel Islands
-* [QR Code Generator](https://qrcode.glitch.je) - [Source](https://github.com/glitchjsy/qrcode) - A simple QR code generator
-* [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate
+* [Clip](https://clip.glitch.je) - ([Source](https://github.com/glitchjsy/clip)) - Effortlessly copy & paste between multiple devices
+* [QR Code Generator](https://qrcode.glitch.je) - ([Source](https://github.com/glitchjsy/qrcode)) - A simple QR code generator
+* [Vehicle Search](https://vehicle-search.glitch.je) - ([Source](https://github.com/glitchjsy/vehicle-search)) - Look up Jersey vehicle information from a number plate
 
 ### JavaScript Projects
 * [Andium Properties Checker](https://github.com/glitchjsy/andium-checker) - A program that checks the Andium Homes website for new properties to let
