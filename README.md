@@ -1,7 +1,7 @@
 # Hi, I'm Luke 👋 
 ![](https://komarev.com/ghpvc/?username=lukeeey&color=blueviolet)  
 
-I'm a 21 year old web developer from the Channel Islands!
+I'm a 22 year old web developer from the Channel Islands!
 
 [<img align="left" alt="lukejwyatt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [My Portfolio Website](https://glitch.je)  
 
