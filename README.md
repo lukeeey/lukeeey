@@ -7,19 +7,19 @@ I'm a 22 year old web developer from the Channel Islands!
 
 ## Languages and Tools
 
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/java.png" />
-<img align="left" alt="" width="30px" src="https://glitch.je/images/logos/html5.png" />
-<img align="left" alt="" width="20px" src="https://glitch.je/images/logos/css3.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/java.png" />
+<img align="left" alt="" width="30px" src="https://glitch.je/imagesold/logos/html5.png" />
+<img align="left" alt="" width="20px" src="https://glitch.je/imagesold/logos/css3.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="" width="20px" src="https://glitch.je/images/logos/typescript.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/react.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/nextjs.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/vscode.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/idea.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/nodejs.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/mysql.png" />
-<img align="left" alt="" width="26px" src="https://glitch.je/images/logos/redis.svg" />
+<img align="left" alt="" width="20px" src="https://glitch.je/imagesold/logos/typescript.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/react.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/nextjs.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/vscode.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/idea.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/nodejs.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/mysql.png" />
+<img align="left" alt="" width="26px" src="https://glitch.je/imagesold/logos/redis.svg" />
 ...and more!
 <br />
 <br />
